@@ -10,7 +10,7 @@
 
 ## Schematic
 
-[PDF](strip-schematic.pdf)
+[PDF](strip.pdf)
 
 ## Bill Of Materials
 
